@@ -1,0 +1,15 @@
+# Personal settings (contain your UPI ID, logo and signature)
+upi_config.json
+upi_logo.*
+upi_signature.*
+
+# Build output (upload the .exe through GitHub Releases instead)
+build/
+dist/
+.build_env/
+*.spec
+*.exe
+
+# Python
+__pycache__/
+*.pyc

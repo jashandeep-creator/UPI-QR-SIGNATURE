@@ -3,6 +3,8 @@
 Stamp a UPI payment QR code (and an optional signature) onto any invoice PDF.
 Pick the spot on the page, set the size, save. Works offline.
 
+Download the exe from Releases
+
 *Made & Designed by Jashandeep Singh*
 
 ---

@@ -159,3 +159,4 @@ This is the plan for the next version. These are ideas, not promises, and the or
 - **Code signing**, so Windows SmartScreen stops warning on first run.
 
 Have an idea? Add it here.
+By mailing at:- jashandeep.gr@gmail.com
